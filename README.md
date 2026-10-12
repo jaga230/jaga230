@@ -31,7 +31,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 [Clinical Decision Support System for Stroke Prediction](LINK_TO_YOUR_REPO)
+### 🏥 [Clinical Decision Support System for Stroke Prediction](https://github.com/jaga230/stroke-prediction)
 <p align="left">
   <img src="https://img.shields.io/badge/PYTHON-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/SCIKIT--LEARN-orange?style=flat-square" />
@@ -40,13 +40,13 @@
 </p>
 Machine Learning project that predicts stroke risk using a Random Forest classifier, integrated into a full-stack React and Flask application with emergency email triage and MongoDB persistence.
 
-### 💰 [Conversational Financial Analytics Prototype](LINK_TO_YOUR_REPO)
+### 💰 [Conversational Financial Analytics Prototype](#)
 <p align="left">
   <img src="https://img.shields.io/badge/PYTHON-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/REACT-lightblue?style=flat-square" />
   <img src="https://img.shields.io/badge/RECHARTS-green?style=flat-square" />
 </p>
-Enterprise dashboard bridging natural language processing with real-time UI data visualization to analyze expenses and revenue projections.
+Enterprise dashboard bridging natural language processing with real-time UI data visualization to analyze expenses and revenue projections. *(Note: Update the '#' link once you upload this project).*
 
 ---
 
